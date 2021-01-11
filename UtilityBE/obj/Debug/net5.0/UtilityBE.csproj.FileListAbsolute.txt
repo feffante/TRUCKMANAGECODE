@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.csprojAssemblyReference.cache
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.AssemblyInfo.cs
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\UtilityBE.deps.json
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\UtilityBE.runtimeconfig.json
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\UtilityBE.runtimeconfig.dev.json
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\UtilityBE.dll
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\ref\UtilityBE.dll
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\bin\Debug\net5.0\UtilityBE.pdb
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.dll
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\ref\UtilityBE.dll
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.pdb
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\UtilityBE\obj\Debug\net5.0\UtilityBE.genruntimeconfig.cache
