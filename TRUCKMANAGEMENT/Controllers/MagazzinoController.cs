@@ -6,12 +6,12 @@ namespace TRUCKMANAGEMENT.Controllers
     {
         public IActionResult Index()
         { 
-            return Content("sono iundex di magazzino controller");
+            return View();
         }
 
         public IActionResult Detail(string id)
         {
-            return Content($"sono detaildi magazzino ho ricevuto id: {id}");
+            return View();
         }
     }
 }

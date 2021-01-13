@@ -38,3 +38,5 @@ C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\T
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.genruntimeconfig.cache
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.csproj.CopyComplete
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.csprojAssemblyReference.cache
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\Razor\Views\Magazzino\Index.cshtml.g.cs
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\Razor\Views\Magazzino\Detail.cshtml.g.cs
