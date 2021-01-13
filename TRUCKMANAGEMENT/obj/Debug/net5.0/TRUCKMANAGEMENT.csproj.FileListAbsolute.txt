@@ -9,7 +9,6 @@ C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\bin\Debug\net5.0\r
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\bin\Debug\net5.0\TRUCKMANAGEMENT.pdb
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\bin\Debug\net5.0\TRUCKMANAGEMENT.Views.dll
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\bin\Debug\net5.0\TRUCKMANAGEMENT.Views.pdb
-C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.csprojAssemblyReference.cache
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.AssemblyInfoInputs.cache
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.AssemblyInfo.cs
@@ -38,3 +37,4 @@ C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\r
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.pdb
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.genruntimeconfig.cache
 C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.csproj.CopyComplete
+C:\Users\PC\Documents\project\TRUCKMANAGECODE\TRUCKMANAGEMENT\obj\Debug\net5.0\TRUCKMANAGEMENT.csprojAssemblyReference.cache
