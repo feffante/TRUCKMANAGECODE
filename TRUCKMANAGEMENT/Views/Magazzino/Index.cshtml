@@ -1,4 +1,32 @@
-    <h1>
-        Sono la view per action Index di Magazzino controller
+    <h1><i class="fas fa-clipboard-list">Magazzino ricambi</i></h1>
+   
+   @for (int a =0;a<=10;a++)
+   {
+    <div class="row">        
+        <div class="col-md1">
+            <img src="~/img/operaio.jpg" width="20" >
+        </div>
+        <div class="col-md2">
+            <h4>NOME articolo</h4>
+        </div>
+        <div class="col-md1">
+            <h4>CODICE articolo</h4>
+        </div>
         
-    </h1>
+        <div class="col-md4">
+            <h4>DESCRIZIONE articolo</h4>
+        </div>
+        <div class="col-md1">
+            <h4>GIACENZA</h4>
+        </div>
+        <div class="col-md1">
+            <h4>GIACENZA MIN</h4>
+        </div>
+         <div class="col-md1">
+            <h4>PREZZO</h4>
+        </div>
+        <div class="col-md1">
+            <a class="btn btn-outline-primary" asp-action="Detail" asp-area="" asp-controller="Magazzino" asp-route-id="6">Dettaglio</a>
+        </div>
+    </div>
+   } 
