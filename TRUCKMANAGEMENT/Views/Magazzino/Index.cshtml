@@ -1,6 +1,10 @@
+@using System.Collections.Generic;
+@using TRUCKMANAGEMENT.Models.ViewModels;
+
+@model  List<MagazzinoViewModel>    
     <h1><i class="fas fa-clipboard-list">Magazzino ricambi</i></h1>
    
-   @for (int a =0;a<=10;a++)
+   @foreach(MagazzinoViewModel mag in Model)
    {
        <hr>
     <div class="row">        
@@ -8,7 +12,7 @@
             <img src="~/img/operaio.jpg" width="20" >
         </div>
         <div class="col-md2">
-            <h4>NOME articolo</h4>
+            <h4>aaaaa</h4>
         </div>
         <div class="col-md1">
             <h4>CODICE articolo</h4>
