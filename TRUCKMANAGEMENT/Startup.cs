@@ -9,6 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+using TRUCKMANAGEMENT.Models.Services.Application;
+
 namespace TRUCKMANAGEMENT
 {
     public class Startup
@@ -17,13 +19,14 @@ namespace TRUCKMANAGEMENT
         {
             Configuration = configuration;
         }
-
+ 
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddTransient<MagazzinoService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

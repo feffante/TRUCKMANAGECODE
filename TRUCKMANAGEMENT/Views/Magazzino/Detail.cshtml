@@ -1,3 +1,127 @@
-    <h1>
-        Sono la view per action Detail di Magazzino controller
-    </h1>
+
+@model MagazzinoDettaglioViewModel
+    <section class="course-info">
+        <aside>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>ID ARTICOLO: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.IdMagazzino</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>CODICE ARICOLO: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.CodiceArticolo</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>DESCRIZIONE: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.NomeArticolo</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>UNITA MISURA: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.UnitaMisura</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>PREZZO: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.PrezzoUnitario</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>PREZZO TOT: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.PrezzoUnitario</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>IVA: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.Iva</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>GIACENZA: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.Quantita</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>GIACENZA MIN: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.QuantitaMin</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>FORNITORE: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.NomeFornitore</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>MARCA: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.Marca</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>NOTE: </h5>
+                </div>
+                <div class="col-md-6">
+                    <h5>@Model.Note</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <h5>IMMAGE: </h5>
+                </div>
+                <div class="col-md-10">
+                    <img id="img_logo" alt="" height="240" src="@Model.ImagePath">
+                </div>
+            </div>
+        </aside>
+    </section>
+    <hr>
+<section class="course-lessons">
+    <div class="row align-items-start">
+        <div class="col">
+            <a class="btn btn-outline-primary" asp-action="Index" asp-area="" asp-controller="Home"
+                asp-route-id="">Indietro</a>
+        </div>
+        <div class="col">
+            <a class="btn btn-outline-primary" asp-action="Index" asp-area="" asp-controller="Home"
+                asp-route-id="">Modifica</a>
+        </div>
+        <div class="col">
+            <a class="btn btn-outline-primary" asp-action="Index" asp-area="" asp-controller="Home"
+                asp-route-id="">Cancella</a>
+        </div>
+    </div>
+</section>
